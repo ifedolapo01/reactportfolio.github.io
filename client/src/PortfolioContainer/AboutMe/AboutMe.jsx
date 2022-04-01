@@ -15,7 +15,7 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTANTS = {
     description:
-      "I am Oluwaseun<br>I combine market research, product development, strategy and design to create seamless user experiences for products, services and processes.",
+      "I am Oluwaseun. I combine market research, product development, strategy and design to create seamless user experiences for products, services and processes.",
     highlights: {
       bullets: [
         "UI/UX Web and Mobile Design",
