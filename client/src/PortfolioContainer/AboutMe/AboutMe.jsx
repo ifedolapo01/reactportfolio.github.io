@@ -15,12 +15,12 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTANTS = {
     description:
-      "UI/UX web and mobile developer with background knowledge of Microsoft Office Tools, along with a knack of designing applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.",
+      "I am Oluwaseun<br>I combine market research, product development, strategy and design to create seamless user experiences for products, services and processes.",
     highlights: {
       bullets: [
-        "UI/UX web and mobile development",
-        "Interactive Design",
-        "Problem Solving",
+        "UI/UX Web and Mobile Design",
+        "Interactive Website Design",
+        "Problem Solving Techniques",
         "Leadership",
         "Microsoft Office",
       ],

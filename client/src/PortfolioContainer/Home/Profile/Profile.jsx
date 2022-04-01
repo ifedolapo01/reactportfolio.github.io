@@ -45,7 +45,7 @@ export default function Profile() {
                   steps={[
                     "Enthusiastic Dev✌",
                     1000,
-                    "UI/UX Developer💻",
+                    "UI/UX Designer💻",
                     1000,
                     "Microsoft Office Expert😎",
                     1000,
